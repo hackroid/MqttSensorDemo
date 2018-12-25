@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">MQTTDEMO</string>
+    <string name="title_broker">Broker</string>
+    <string name="title_subscriptions">Subscriptions</string>
+    <string name="title_messages">Messages</string>
+    <string name="title_logs">Logs</string>
+    <string name="xyzbgm">
+        X : _______________
+        Y : _______________
+        Z : _______________
+    </string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>
